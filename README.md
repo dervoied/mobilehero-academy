@@ -14,3 +14,9 @@ Learning resources and onboarding
   - [Learning Go](https://github.com/mmcgrana/gobyexample)
 4. [git](https://git-scm.com/)
 5. [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
+6. [backbone](http://backbonejs.org/)
+7. [react](https://facebook.github.io/react/)
+8. [Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Workflow
+1. [GitHub Issues](https://guides.github.com/features/issues/)
