@@ -1,7 +1,7 @@
 # mobilehero-academy
 Learning resources and onboarding
 
-## Mis
+## Design, architecture, and CS
 1. [Versioning](http://semver.org/)
 2. [JSON API Spec](http://jsonapi.org/)
 3. [Building 12-Factor Apps](http://12factor.net/)
