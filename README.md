@@ -1,5 +1,6 @@
 # mobilehero-academy
-Learning resources and onboarding
+-Learning resources (see below)
+-[Onboarding](docs/onboarding.md)
 
 ## Design, architecture, and CS
 1. [Versioning](http://semver.org/)
@@ -14,8 +15,8 @@ Learning resources and onboarding
   - [Learning Go](https://github.com/mmcgrana/gobyexample)
 4. [git](https://git-scm.com/)
 5. [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
-6. [backbone](http://backbonejs.org/)
-7. [react](https://facebook.github.io/react/)
+6. [backbone.js](http://backbonejs.org/)
+7. [react.js](https://facebook.github.io/react/)
 8. [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Workflow
